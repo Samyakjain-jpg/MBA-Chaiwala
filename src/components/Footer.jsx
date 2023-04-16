@@ -117,10 +117,10 @@ const Footer = () => {
 
         <div>
           <h5>Phone</h5>
-          <a href="tel: +91722905222">+91722905222</a>
+          <a href="tel: +9191745785523">+9191745785523</a>
         </div>
 
-        <p>© COPYRIGHT 2022 MBA CHAIWALA. MADE BY</p>
+        <p>© COPYRIGHT 2022 MBA CHAIWALA. MADE BY SAM</p>
       </footer>
       <div className="footer"></div>
     </>
